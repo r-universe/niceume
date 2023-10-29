@@ -5,3 +5,6 @@
 [submodule "datasailr"]
 	path = datasailr
 	url = https://github.com/niceume/datasailr
+[submodule "defineOptions"]
+	path = defineOptions
+	url = https://github.com/niceume/defineoptions
